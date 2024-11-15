@@ -62,41 +62,41 @@ function TodayActivity() {
 
 export default TodayActivity;
 
-const OLDdata = [
-  {
-    id: 1,
-    status: "unconfirmed",
-    guests: { fullName: "Jonas Schmedtmann" },
-    numNights: 6,
-  },
-  {
-    id: 2,
-    status: "unconfirmed",
-    guests: { fullName: "Steven Miller" },
-    numNights: 1,
-  },
-  {
-    id: 3,
-    status: "checked-in",
-    guests: { fullName: "John Smith" },
-    numNights: 3,
-  },
-  {
-    id: 4,
-    status: "unconfirmed",
-    guests: { fullName: "Marta Schmedtmann" },
-    numNights: 14,
-  },
-  {
-    id: 5,
-    status: "checked-in",
-    guests: { fullName: "Miguel Silva" },
-    numNights: 5,
-  },
-  {
-    id: 6,
-    status: "checked-in",
-    guests: { fullName: "Mary Williams" },
-    numNights: 4,
-  },
-];
+// const OLDdata = [
+//   {
+//     id: 1,
+//     status: "unconfirmed",
+//     guests: { fullName: "Jonas Schmedtmann" },
+//     numNights: 6,
+//   },
+//   {
+//     id: 2,
+//     status: "unconfirmed",
+//     guests: { fullName: "Steven Miller" },
+//     numNights: 1,
+//   },
+//   {
+//     id: 3,
+//     status: "checked-in",
+//     guests: { fullName: "John Smith" },
+//     numNights: 3,
+//   },
+//   {
+//     id: 4,
+//     status: "unconfirmed",
+//     guests: { fullName: "Marta Schmedtmann" },
+//     numNights: 14,
+//   },
+//   {
+//     id: 5,
+//     status: "checked-in",
+//     guests: { fullName: "Miguel Silva" },
+//     numNights: 5,
+//   },
+//   {
+//     id: 6,
+//     status: "checked-in",
+//     guests: { fullName: "Mary Williams" },
+//     numNights: 4,
+//   },
+// ];
